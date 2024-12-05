@@ -275,7 +275,6 @@ function getFibonacciNumber(index) {
   }
   return arr[index];
 }
-console.log(getFibonacciNumber(10));
 /**
  * Returns the sum of all numbers from 1 to n.
  *
